@@ -35,3 +35,4 @@ deploying an automated pipeline on AWS CodeDeploy to facilitate ci/cd
 ## Screenshots
 ![img.png](img.png)
 
+![img_2.png](img_2.png)
