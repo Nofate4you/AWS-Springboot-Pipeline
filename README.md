@@ -17,6 +17,7 @@ deploying an automated pipeline on AWS CodeDeploy to facilitate ci/cd
 - step10: first create ECS cluster called spring-cluster, second create a task definition call spring-demo-task-def. make sure both of these are launch type fargate
 - step11: go to EC2>Security Groups> edit inbound rules. allow access to port 8080
 - step12: create CodePipeline name it AWS-demo-pipeline
+- step13: verify pipeline works on port:8080 and do a last git push to your GitHub repository.
 
 
 ## Highlights
